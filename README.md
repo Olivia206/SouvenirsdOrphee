@@ -4,8 +4,11 @@ Jeu vidéo MMI créé avec Unity.
 
 # Informations
 
-Page du jeu sur Itch.io : 
-Repository : [https://github.com/tmiia/experience_joueur](https://github.com/tmiia/experience_joueur)
+Jeu accessible en ligne : [https://souvenirsdorphee.netlify.app/](https://souvenirsdorphee.netlify.app/)
+
+Page du jeu sur Itch.io : [https://ayliine.itch.io/les-souvenirs-dorphee](https://ayliine.itch.io/les-souvenirs-dorphee)
+
+Repository : [https://.com/tmiia/experience_joueur](https://github.com/tmiia/experience_joueur)
 
 # Présentation
 

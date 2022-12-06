@@ -8,7 +8,7 @@ Jeu accessible en ligne : [https://souvenirsdorphee.netlify.app/](https://souven
 
 Page du jeu sur Itch.io : [https://ayliine.itch.io/les-souvenirs-dorphee](https://ayliine.itch.io/les-souvenirs-dorphee)
 
-Repository : [https://.com/tmiia/experience_joueur](https://github.com/tmiia/experience_joueur)
+Code source : [https://.com/tmiia/experience_joueur](https://github.com/tmiia/experience_joueur)
 
 # Présentation
 
